@@ -1,5 +1,16 @@
-header {
-    background-color: #2ee0ab;
-    color: rgb(252, 246, 246);
-    
+.cabecalho {
+    background-color: #b0b8b5;
+    color: rgb(250, 249, 249);
+    display: flex;
+    justify-content: space-around;
 }
+
+
+.cabecalho-imagem{
+   width: 20%;
+}
+
+.cabecalho-lidta-item{
+    display: inline-block;
+}
+
