@@ -1,0 +1,27 @@
+ *{
+    margin: 0; 
+    padding: 0;
+}
+
+
+
+.cabecalho {
+    background-color: #19f0a1;
+    color: rgb(250, 249, 249);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 24px 0;
+}
+
+
+
+.cabecalho-imagem{
+   width: 20%;
+}
+
+.cabecalho-lidta-item{
+    display: inline-block;
+    margin: 0 16px;
+}
+
